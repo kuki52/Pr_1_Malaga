@@ -48,6 +48,6 @@ public class Main {
             answer.append("Приятного аппетита!");
         }
 
-        System.out.println(answer);
+        System.out.println(answer); // 1
     }
 }
